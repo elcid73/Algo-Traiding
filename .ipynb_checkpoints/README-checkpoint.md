@@ -67,7 +67,7 @@ I chose the original SMA inputs and 6 months traiding:
    macro avg       0.50      0.50      0.38      3943
 weighted avg       0.51      0.56      0.42      3943
 
-This model does better predicting buy signals, especially after early 2020.
+This model does better predicting buy signals after early 2020, but does worse than the original model in the period of 2019 - early 2020
 
 
 
